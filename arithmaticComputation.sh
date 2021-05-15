@@ -14,4 +14,4 @@ compute[result2]=$result2
 compute[result3]=$result3
 compute[result4]=$result4
 
-echo  All results : ${!compute[@]}
+echo  All results array printed : ${!compute[@]}
